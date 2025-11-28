@@ -1,6 +1,6 @@
 blueprint:
   name: Custom Zalo Bot Webhook
-  author: huynhasafebet
+  author: asafebet
   description: >-
     # A Zalo bot enabling seamless two-way communication with Home Assistant.
 
